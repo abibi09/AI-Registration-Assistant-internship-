@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Abibi",
+        "email": "abibi12@gmail.com",
+        "field": "Cse",
+        "experience": "Beginner",
+        "registration_id": "REG8969",
+        "registered_at": "2026-09-12 14:52:23"
+    },
+    {
+        "name": "Abibi",
+        "email": "student@example.com",
+        "field": "Computer Science",
+        "experience": "Beginner",
+        "registration_id": "REG7279",
+        "registered_at": "2026-09-12 15:22:39"
+    }
+]
